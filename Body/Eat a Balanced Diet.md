@@ -66,7 +66,7 @@ Drinking enough water is important for maintaining good health. Aim to drink at 
 
 - Make water your primary beverage choice and limit sugary drinks, such as soda and sweetened coffee and tea.
 
-- - Drink a glass of water when you first wake up in the morning to help rehydrate your body after a night's sleep.
+- Drink a glass of water when you first wake up in the morning to help rehydrate your body after a night's sleep.
 
 Eat water-rich foods, such as fruits and vegetables, which can help contribute to your daily fluid intake.
 
@@ -104,9 +104,9 @@ Eating at regular intervals can help you maintain a healthy weight and keep your
 
 - Avoid skipping meals, especially breakfast, as this can lead to overeating later in the day.
 
-- - Keep healthy snack options, such as fruits, nuts, and veggies, on hand to help curb hunger between meals.
+- Keep healthy snack options, such as fruits, nuts, and veggies, on hand to help curb hunger between meals.
 
-Consider using a meal planning app or creating a meal plan to help you stay on track with your eating schedule.
+- Consider using a meal planning app or creating a meal plan to help you stay on track with your eating schedule.
 
 - If you are struggling to eat at regular intervals due to a busy schedule, try prepping meals in advance or setting aside specific times for eating.
 
